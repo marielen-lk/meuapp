@@ -51,7 +51,7 @@ function clientesPDF(cep){
         footer: Rodape,
         styles: {
             text: { color: '#333' },  // Cor do texto
-            header: { fontSize: 18, bold: true, color: '#333' },  // Estilo do cabeçalho
+            header: { fontSize: 20, bold: true, color: '#333' },  // Estilo do cabeçalho
     },
 };
 
